@@ -1,0 +1,21 @@
+gym==0.17.2+computecanada
+h5py==3.8.0+computecanada
+matplotlib==3.7.0+computecanada
+mujoco-py==2.0.2.10
+numpy==1.23.0+computecanada
+opencv-python==4.5.1.48+computecanada
+pyarrow==5.0.0
+seaborn==0.13.2+computecanada
+-e git+https://github.com/manantomar/taming-transformers.git@3d8c8ac03d12db0ed361ec74250022cc09af8cbc#egg=taming_transformers
+timm==0.9.16+computecanada
+torch==2.0.1+cu118
+torchaudio==2.0.2+cu118
+torchmetrics==1.2.1+computecanada
+torchvision==0.11.1+computecanada
+tqdm==4.66.1+computecanada
+transformers==4.33.3+computecanada
+typed-argument-parser==1.9.0
+vector_quantize_pytorch==1.12.12
+vit-pytorch==1.6.5
+wandb==0.15.9
+zipp==3.16.2+computecanada
